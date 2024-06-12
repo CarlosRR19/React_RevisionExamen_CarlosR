@@ -1,0 +1,6 @@
+.character-list {
+    display: flex;
+    flex-wrap: wrap; /* Permite que las tarjetas se envuelvan en varias líneas si es necesario */
+    gap: 16px; /* Espacio entre las tarjetas */
+    justify-content: space-around; /* Distribuye las tarjetas uniformemente con espacio alrededor */
+  }
